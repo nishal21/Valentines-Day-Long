@@ -78,6 +78,7 @@ npm install -g firebase-tools
 firebase login
 firebase deploy
 ```
+add the website files in a folder named "public" , before deploying using firbase.
 
 **Netlify / Vercel:**
 - Just drag & drop the `public` folder
